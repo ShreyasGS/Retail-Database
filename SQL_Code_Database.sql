@@ -1,6 +1,3 @@
---IMT 543
---Group 1
---Creating the final database
 --This is a database for an online store. It tracks customers, their orders, various product prices, and more. 
 
 CREATE DATABASE	Group1_Final_IM543
